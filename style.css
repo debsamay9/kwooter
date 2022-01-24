@@ -1,0 +1,16 @@
+html, body { 
+    height: 100%; margin: 0; 
+align-content: center;
+}
+ body 
+ { background-image: linear-gradient(to right top, #33f1c2, #2591d9, #b6c118, #aa0a7a, #d49712); }
+ .header { color: white;
+    font-family: cursive;
+    font-size: 45px;letter-spacing: 10px;
+    align-content: center;
+    margin-top: 80px; }
+
+img{
+    height: 100px;
+    width: 100px;
+}
